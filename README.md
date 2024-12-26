@@ -3,7 +3,5 @@ Files list are
 2) CodeAntAI.css, 
 3) CodeAntAI.js
 
-4) CodeAntAIHome.html ( Images included in this file are 1) CodeAntAi.png 2) home.png, 3) code.jpg, 4) Cloud.png, 5)Book.png, 6) Settings.png, 7) phone1.png, 8) Logout.png 
-9) Refresh.jpg, 10)dot.jpg, 11) storage.png 
-Javascript is also included in this file ) , 
+4) CodeAntAIHome.html ( Images included in this file are 1) CodeAntAi.png 2) home.png, 3) code.jpg, 4) Cloud.png, 5)Book.png, 6) Settings.png, 7) phone1.png, 8) Logout.png , 9) Refresh.jpg, 10)dot.jpg, 11) storage.png) (Javascript is also included in this file ) , 
 5) CodeAntAIHome.css
